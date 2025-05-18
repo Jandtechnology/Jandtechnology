@@ -1,50 +1,73 @@
-<h1 align="center">👋 Hola, soy Jand</h1>
+<h1 align="center">👋 Hola, soy Jorge Niochet</h1>
+<h3 align="center">Ingeniero Civil en Informática | Docente | Consultor en Tecnología e Innovación</h3>
 
 <p align="center">
-  Desarrollador apasionado por la educación, el diseño y la tecnología.<br>
-  En formación constante en desarrollo full-stack, diseño multimedia y más.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jandtechnology&label=Visitas&color=blue" alt="contador de visitas" />
+  📍 Colina, Chile | ✉️ jniochet@gmail.com | 🌐 <a href="https://www.linkedin.com/in/jorge-niochet-526a9377">LinkedIn</a>
 </p>
 
 ---
 
-## 🎓 Formación
+## 🎓 Formación Académica
 
-### 🎨 Máster en Diseño y Desarrollo de la Interfaz de Usuario Web
-> Diseño creativo, enfoque UX/UI, responsive web y desarrollo front-end moderno.
-
-### 📽️ Máster en Diseño y Producción Multimedia
-> Edición de video, imagen, creación de apps/web, contenido digital y marketing.
+- 🎓 Ingeniero Civil en Informática — Universidad de Chile (Revalida, 2019)
+- 💻 Ingeniero en Sistemas — Univ. José Gregorio Hernández, Venezuela
+- 🔌 Técnico Superior Univ. en Electrónica — Instituto READIC, Venezuela
 
 ---
 
-## 🚀 Proyectos Destacados
+## 💼 Experiencia Destacada
 
-- 🔗 [BookVerse](https://book-verse-sooty.vercel.app/): Plataforma literaria para escritores emergentes.
-- 💻 [Tienda Hardware](https://github.com/carlosandressalgado/Tienda_hardware): Tienda online hecha con React y Firebase.
+### 🚀 Duoc UC — Docente (2024 - Presente)
+- Fundamentos de programación, desarrollo web y móvil, arquitectura de software.
+
+### 🎓 School of Talent — Director Académico
+- Implementación de plataforma educativa, contenidos y comunidad de aprendizaje.
+
+### 🖥️ FC Electric Tech — Desarrollador Web (2023)
+- Desarrollo de sitios web responsivos y atractivos visualmente con tecnologías modernas.
+
+### 🧩 EnginePartsMcbo — CEO y Desarrollador (2020 - Presente)
+- Liderazgo de e-commerce en autopartes con soluciones de integración tecnológica.
 
 ---
 
-## 📊 Estadísticas
+## 🛠️ Habilidades Técnicas
+
+- **Lenguajes:** Python, JavaScript, HTML, CSS
+- **Frameworks:** Bootstrap, jQuery, WordPress
+- **DevOps & Cloud:** Amazon EC2, Lightsail, Aurora
+- **Bases de Datos:** MySQL, SQLite
+- **Otros:** Gestión de proyectos, liderazgo técnico, documentación de procesos
+
+---
+
+## 📜 Certificaciones
+
+- ✅ Introduction to Modern AI
+- ✅ Python Classes and Inheritance
+- ✅ Programar en Python (OpenAI, Google, edX, etc.)
+
+---
+
+## 🌐 Proyectos Destacados
+
+- 📚 [BookVerse](https://book-verse-sooty.vercel.app/) — Plataforma de relatos digitales
+- 🛍️ [Tienda Hardware](https://github.com/carlosandressalgado/Tienda_hardware) — Tienda en línea con React & Firebase
+- 🧠 [School of Talent](http://schooloftalent.cl) — Academia de programación para jóvenes
+
+---
+
+## 📈 Estadísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jandtechnology&show_icons=true&theme=dracula" alt="stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jandtechnology&layout=compact&theme=dracula" alt="top langs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jandtechnology&show_icons=true&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jandtechnology&layout=compact&theme=radical" height="150">
 </p>
 
 ---
 
-## 📫 Contáctame
+## 📫 ¿Quieres colaborar?
 
-- 🌐 [LinkedIn](https://linkedin.com/in/janddev)
-- 📧 jand.dev@gmail.com
-- 💼 [Portafolio en construcción]
+Si estás trabajando en proyectos educativos, de innovación o desarrollo web y necesitas un colaborador comprometido, ¡contáctame!
 
----
-
-<p align="center">
-  ¡Gracias por visitar mi perfil!
-</p>
+<p align="center"><strong>“La educación transforma el presente, la tecnología transforma el futuro.”</strong></p>
